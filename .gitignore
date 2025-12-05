@@ -1,12 +1,12 @@
-### Generated files
+###Generated files
 *.class
-
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.kotlin
 
 ### Eclipse ###
 .apt_generated
